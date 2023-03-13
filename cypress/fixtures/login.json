@@ -1,0 +1,12 @@
+{"user":
+    {"id":"3X8SefRhy",
+     "uuid":"5216318a-d3e3-4117-89f5-9c6e1a7ae54b",
+     "firstName":"test",
+     "lastName":"user",
+     "username":"test1111",
+     "password":"$2a$10$QdqzCmsiKwt962fDCjRwq.ozMNxf05D1SxHSTXZ2V7BuX2u7zOO9W",
+     "balance":0,
+     "createdAt":"2023-03-13T12:08:19.399Z",
+     "modifiedAt":"2023-03-13T12:08:19.399Z"
+     }
+}
