@@ -1,4 +1,4 @@
-
+// example application: https://github.com/cypress-io/cypress-realworld-app
 
 describe('logs in', () => {
     it('intercept one way', () => {
